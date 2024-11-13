@@ -6,7 +6,3 @@ Apaixonada por tecnologia e iniciando minha jornada no desenvolvimento web! No m
 - 🚀 Objetivo: Me tornar uma desenvolvedora Front-End e criar projetos práticos que tornem a web mais acessível e intuitiva
 - 🎓 Cursos: Azure Fundamentals, Microsoft 365, DevOps (Ada Tech)
 - 💬 Vamos conversar sobre: Cloud Computing, Desenvolvimento Web e Tecnologias de Front-End
-
-📫 Você pode me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/vitoria-ricardo2802)
-- **Email**: vitoria.ricardo2802@gmail.com
