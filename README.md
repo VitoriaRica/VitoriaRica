@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Bem-vindo(a) ao meu perfil!<br>Sou apaixonada por tecnologia e estou dando os primeiros passos na minha jornada no universo da tecnologia e desenvolvimento web! Atualmente, estou me especializando em Front-End, com foco em HTML, CSS, JavaScript, React e Vue.js.<br><br>Um pouco mais sobre mim:<br>🌱 Em aprendizado: Estou aprofundando meus conhecimentos em HTML, CSS e JavaScript.<br>🚀 Objetivo: Melhorar continuamente minhas habilidades, além de expandir meus conhecimentos em Azure e outras tecnologias de suporte técnico.<br>🎓 Formação e cursos concluídos:<br><br>Suporte de TI do Google<br>Azure Fundamentals<br>Microsoft 365<br>DevOps<br>💬 Vamos trocar ideias?<br>Adoro conversar sobre Cloud Computing, Desenvolvimento Web, Tecnologias de Front-End e Suporte Técnico em TI.<br><br>Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos construir juntos! 🚀</p>
+<p align="left">Sou apaixonada por tecnologia e estou iniciando minha jornada no desenvolvimento web, com foco em <b>HTML, CSS, JavaScript, React e Vue.js.</b><br><br>- 🌱 <b>Aprendendo:</b> HTML, CSS e JavaScript<br>- 🚀 <b>Objetivo:</b> Aprimorar minhas habilidades e explorar novas tecnologias como Azure e Suporte Técnico em TI<br>- 💬 <b>Vamos conversar?</b> Adoro temas como Suporte Técnico, Cloud Computing e Desenvolvimento Front-End<br><br>Sinta-se à vontade para explorar meus projetos! 🚀</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/vixric/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
