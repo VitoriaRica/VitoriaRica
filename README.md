@@ -45,6 +45,4 @@ Apaixonada por tecnologia e iniciando minha jornada no desenvolvimento web! No m
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VitoriaRica/VitoriaRica/output/snake.svg" alt="Snake animation" />
-
 ###
